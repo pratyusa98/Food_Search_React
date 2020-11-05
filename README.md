@@ -6,11 +6,11 @@ Here I use https://developer.edamam.com/edamam-recipe-api API For Getting Food
 
 ### How to Use this
 1. 1st download this repo as zip
-2. Unzip the file
+2. Unzip the file 
 3. Go inside file and open CMD/git-bash
-4. npm install - It will install all necessary libraries
-5. npm run start - It will run your website in localhots
-6. npm run build - it will create a build/dist folder that you can deploy online
+4. $npm install - It will install all necessary libraries
+5. $npm run start - It will run your website in localhots  http://localhost:3000
+6. $npm run build - it will create a build/dist folder that you can deploy online
 
 ### For free deployment By Surge
 1. After $npm run build you type $npm intall --global surge
